@@ -1,10 +1,17 @@
 {
-    "name": "laravel/laravel",
+    "name": "pascalhesselink/laravel-vue-spa",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Laravel Default Authentication transformed into a Single-Page-Application. Used: Laravel, Tailwind CSS, Vue, Vuex and Vue-Router.",
     "keywords": [
         "framework",
-        "laravel"
+        "laravel",
+        "vue",
+        "vuex",
+        "vue-router",
+        "tailwind",
+        "spa",
+        "single-page-application",
+        "authentication"
     ],
     "license": "MIT",
     "require": {
